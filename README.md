@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# MAGD 150 Projects
 
-You can use the [editor on GitHub](https://github.com/DonDinglerTheMingler/MAGD150Projects-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+# Lab Assignment 10 
+In this project we worked with 3d enviornments and primitives along with lights and JSON files. It is a sketch that involves camera movement with both the camera and translate functions. The user can zoom in on the 3d objects with moving the mouse over the sketch on the X axis, and translating the objects forward when the mouse is being pressed and moved on the Y axis
+[Click here to view source code](https://editor.p5js.org/DonDinglerTheMingler/sketches/6UX2ho34T)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Lab Assignment 9
+In this project we worked with inserting video and sound into the sketch. This sketch utilises the users camera and puts a grey filter over it. It also uses a HTML button to play a cracking sound when it is pressed with the mouse. 
+[Click here to view source code](https://editor.p5js.org/DonDinglerTheMingler/sketches/_fa4yJ54a)
 
-### Markdown
+#Lab Assignment 8
+In this project we worked with loading fonts, displaying text on the screen, as well as loading strings from external files. This sketch displays two photos, one as the background and a translucent one in the foreground. This also loads two fonts with text imported from an external file. The text changes colors when the mouse is pressed. There is also a part of the text which follows the X and Y position of the mouse on the canvas. 
+[Click here to view source code](https://editor.p5js.org/DonDinglerTheMingler/sketches/icYkl3pF4)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Lab Assignment 7
+In this project we classes and arrays. This sketch uses an array to draw birds on the screen. The birds also have randomised movement.
+[Click here to view source code](https://editor.p5js.org/DonDinglerTheMingler/sketches/kNHSeTnxC)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DonDinglerTheMingler/MAGD150Projects-Assignments/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#Lab Assignment 1
+In this project we worked with using 2d primatives and getting used to the p5.js X,Y co-ordinate system. This assignment was very fun for me to work on and I enjoyed learning the very basics of p5.js though this assignment. I got the inspiration for this sketch from a video on YouTube called Cream by David Firth. Here's a link if you would like to see it, I can't recommend it enough! https://www.youtube.com/watch?v=0UgiJPnwtQU&t=408s specific image used as inspiration at 6:48
+[Click here to view source code](https://editor.p5js.org/DonDinglerTheMingler/sketches/zAue2ANxu)
